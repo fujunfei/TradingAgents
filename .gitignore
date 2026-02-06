@@ -1,0 +1,29 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Cursor / IDE
+.cursor/terminals/
+.vscode/
+
+# Logs
+*.log
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+.python-version
+.venv/
+venv/
+
+# Environment secrets
+.env
+.env.*
+
